@@ -1,0 +1,113 @@
+<dblp>
+	<inproceedings mdate="2009-10-07" key="conf/bncod/DiazE92">
+		<author>Oscar Daz</author>
+		<author>Suzanne M. Embury</author>
+		<title>Generating Active Rules from High-Level Specifications.</title>
+		<pages>227-243</pages>
+		<year>1992</year>
+		<crossref>conf/bncod/1992</crossref>
+		<booktitle>BNCOD</booktitle>
+		<url>db/conf/bncod/bncod92.html#DiazE92</url>
+		<ee>http://dx.doi.org/10.1007/3-540-55693-1_41</ee>
+	</inproceedings>
+	<book mdate="2002-01-03" key="books/aw/CeriF97">
+		<author>Stefano Ceri</author>
+		<author>Piero Fraternali</author>
+		<title>Designing Database Applications with Objects and Rules: The
+			IDEA Methodology
+		</title>
+		<publisher href="db/publishers/aw.html">Addison-Wesley</publisher>
+		<year>1997</year>
+		<isbn>0-201-40369-2</isbn>
+	</book>
+	<book mdate="2002-01-03" key="books/bc/BatiniCN92">
+		<author>Carlo Batini</author>
+		<author>Stefano Ceri</author>
+		<author>Shamkant B. Navathe</author>
+		<title>Conceptual Database Design: An Entity-Relationship Approach.
+		</title>
+		<publisher>Benjamin/Cummings</publisher>
+		<year>1997</year>
+		<isbn>0-8053-0244-1</isbn>
+	</book>
+	<book mdate="2012-11-06" key="books/daglib/0029346">
+		<author>AnHai Doan</author>
+		<author>Alon Y. Halevy</author>
+		<author>Zachary G. Ives</author>
+		<title>Principles of Data Integration.</title>
+		<pages>I-XVIII, 1-497</pages>
+		<publisher>Morgan Kaufmann</publisher>
+		<year>1999</year>
+		<isbn>978-0-12-416044-6</isbn>
+		<ee>http://store.elsevier.com/product.jsp?isbn=9780124160446</ee>
+	</book>
+	<incollection mdate="2008-02-24" key="books/crc/tucker97/CeriR97">
+		<author>Stefano Ceri</author>
+		<author>Raghu Ramakrishnan</author>
+		<title>Rules in Data-Based Systems.</title>
+		<pages>1142-1157</pages>
+		<year>1997</year>
+		<crossref>books/crc/tucker1997</crossref>
+		<booktitle>The Computer Science and Engineering Handbook</booktitle>
+		<url>db/books/collections/tucker97.html#CeriR97</url>
+	</incollection>
+	<article mdate="2002-01-03" key="journals/Lobjet/SampaioP99">
+		<author>Pedro R. Falcone Sampaio</author>
+		<author>Norman W. Paton</author>
+		<title>A Deductive Extension for ODMG Compliant Object Databases.
+		</title>
+		<year>1999</year>
+		<volume>5</volume>
+		<journal>L'OBJET</journal>
+		<number>1</number>
+		<url>db/journals/Lobjet/Lobjet5.html#SampaioP99</url>
+	</article>
+	<inproceedings mdate="2009-02-15" key="conf/owled/RectorSD08">
+		<author>Alan L. Rector</author>
+		<author>Robert Stevens</author>
+		<author>Nick Drummond</author>
+		<title>What Causes Pneumonia? The Case for a Standard Semantics for
+			"may" in OWL.</title>
+		<year>1997</year>
+		<booktitle>OWLED</booktitle>
+		<ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_14.pdf</ee>
+		<crossref>conf/owled/2008</crossref>
+		<url>db/conf/owled/owled2008.html#RectorSD08</url>
+	</inproceedings>
+	<inproceedings mdate="2009-02-15" key="conf/owled/StevensLG06">
+		<author>Robert Stevens</author>
+		<author>Phillip W. Lord</author>
+		<author>Andrew Gibson</author>
+		<title>Something Nasty in the Woodshed: the Public Knowledge Model.
+		</title>
+		<year>1997</year>
+		<booktitle>OWLED</booktitle>
+		<ee>http://ceur-ws.org/Vol-216/submission_17.pdf</ee>
+		<crossref>conf/owled/2006</crossref>
+		<url>db/conf/owled/owled2006.html#StevensLG06</url>
+	</inproceedings>
+	<inproceedings mdate="2009-02-15" key="conf/owled/StevensS08">
+		<author>Robert Stevens</author>
+		<author>Margaret Stevens</author>
+		<title>A Family History Knowledge Base Using OWL 2.</title>
+		<year>1997</year>
+		<booktitle>OWLED</booktitle>
+		<ee>http://ceur-ws.org/Vol-432/owled2008eu_submission_29.pdf</ee>
+		<crossref>conf/owled/2008</crossref>
+		<url>db/conf/owled/owled2008.html#StevensS08</url>
+	</inproceedings>
+	<inproceedings mdate="2012-09-18" key="conf/pdis/HoutsmaCC91">
+		<ee>http://dx.doi.org/10.1109/PDIS.1991.183080</ee>
+		<author>Maurice A. W. Houtsma</author>
+		<author>Filippo Cacace</author>
+		<author>Stefano Ceri</author>
+		<title>Parallel Hierarchical Evaluation of Tranitive Closure Queries.
+		</title>
+		<pages>130-137</pages>
+		<cdrom>PDIS1991/P130.pdf</cdrom>
+		<year>1999</year>
+		<crossref>conf/pdis/91</crossref>
+		<booktitle>PDIS</booktitle>
+		<url>db/conf/pdis/pdis91.html#HoutsmaCC91</url>
+	</inproceedings>
+</dblp>

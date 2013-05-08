@@ -1,0 +1,24 @@
+<response>
+	<author>
+		<name>Stefano Ceri</name>
+		<number>1</number>
+		<co-authors>
+			<co-author>
+				<name>Carlo Batini</name>
+				<number>2</number>
+			</co-author>
+			<co-author>
+				<name>Oscar Daz</name>
+				<number>1</number>
+			</co-author>
+			<co-author>
+				<name>Shamkant B. Navathe</name>
+				<number>2</number>
+			</co-author>
+			<co-author>
+				<name>Raghu Ramakrishnan</name>
+				<number>1</number>
+			</co-author>
+		</co-authors>
+	</author>
+</response>

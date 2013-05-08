@@ -1,0 +1,42 @@
+<dblp>
+	<book mdate="2002-01-03" key="books/bc/BatiniCN92">
+		<author>Carlo Batini</author>
+		<author>Stefano Ceri</author>
+		<author>Shamkant B. Navathe</author>
+		<title>Conceptual Database Design: An Entity-Relationship Approach.
+		</title>
+		<publisher>Benjamin/Cummings</publisher>
+		<year>1997</year>
+		<isbn>0-8053-0244-1</isbn>
+	</book>
+	<incollection mdate="2008-02-24" key="books/crc/tucker97/CeriR97">
+		<author>Stefano Ceri</author>
+		<author>Raghu Ramakrishnan</author>
+		<title>Rules in Data-Based Systems.</title>
+		<pages>1142-1157</pages>
+		<year>1997</year>
+		<crossref>books/crc/tucker1997</crossref>
+		<booktitle>The Computer Science and Engineering Handbook</booktitle>
+		<url>db/books/collections/tucker97.html#CeriR97</url>
+	</incollection>
+	<incollection mdate="2002-01-03" key="books/sp/patton99/DinnPW99">
+		<author>Andrew Dinn</author>
+		<author>Norman W. Paton</author>
+		<author>M. Howard Williams</author>
+		<title>RAP: The ROCK &amp; ROLL Active Programming System.</title>
+		<pages>323-336</pages>
+		<year>1999</year>
+		<booktitle>Active Rules in Database Systems</booktitle>
+		<url>db/books/collections/patton99.html#DinnPW99</url>
+	</incollection>
+	<incollection mdate="2002-01-03" key="books/el/alba85/CeriP85">
+		<author>Stefano Ceri</author>
+		<author>Barbara Pernici</author>
+		<title>DATAID-D: Methodology for Distributed Database Design.</title>
+		<pages>157-183</pages>
+		<year>1999</year>
+		<booktitle>Computer-Aided Database Design: the DATAID approach
+		</booktitle>
+		<url>db/books/collections/dataid85.html#CeriP85</url>
+	</incollection>
+</dblp>

@@ -1,0 +1,18 @@
+<response>
+	<book>
+		<author>
+			<name>Zachary G. Ives</name>
+			<number>2</number>
+			<co-authors>
+				<co-author>
+					<name>Alon Y. Halevy</name>
+					<number>2</number>
+				</co-author>
+				<co-author>
+					<name>AnHai Doan</name>
+					<number>2</number>
+				</co-author>
+			</co-authors>
+		</author>
+	</book>
+</response>
