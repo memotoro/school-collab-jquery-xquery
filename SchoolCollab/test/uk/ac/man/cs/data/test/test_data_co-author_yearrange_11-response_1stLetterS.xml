@@ -1,0 +1,40 @@
+<response>
+	<year >
+	</year>
+	<author>
+		<name>Shamkant B. Navathe</name>
+		<number>2</number>
+		<co-authors>
+			<co-author>
+				<name>Carlo Batini</name>
+				<number>2</number>
+			</co-author>
+			<co-author>
+				<name>Stefano Ceri</name>
+				<number>4</number>
+			</co-author>
+		</co-authors>
+	</author>
+	<author>
+		<name>StefanoCeri</name>
+		<number>4</number>
+		<co-authors>
+			<co-author>
+				<name>Barbara Pernici</name>
+				<number>1</number>
+			</co-author>
+			<co-author>
+				<name>Carlo Batini</name>
+				<number>2</number>
+			</co-author>
+			<co-author>
+				<name>Raghu Ramakrishnan</name>
+				<number>1</number>
+			</co-author>
+			<co-author>
+				<name>Shamkant B. Navathe</name>
+				<number>2</number>
+			</co-author>
+		</co-authors>
+	</author>
+</response>

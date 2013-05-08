@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta>
+<title>Welcome</title>
+<link media="all" rel="stylesheet" type="text/css" href="css/all.css" />
+<link media="all" rel="stylesheet" type="text/css"
+	href="css/bootstrap.min.css" />
+<link rel="stylesheet"
+	href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.main.js"></script>
+<script type="text/javascript" src="js/genericRequest.js"></script>
+<script type="text/javascript" src="js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="js/jquery.iframe-transport.js"></script>
+<script type="text/javascript" src="js/jquery.fileupload.js"></script>
+<script type="text/javascript" src="js/collabUploadFile.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="content">
+			<div class="c1">
+				<div class="controls">
+					<div class="fileUsed">
+						<h3 id="filename"></h3>
+					</div>
+					<nav class="lin data.context = $('<button/>').text('Upload')ks">
+					<h1>Manchester University Collaboration</h1>
+					</nav>
+				</div>
+				<div class="tabs">
+					<div id="tab-3" class="tab">
+						<div class="text-section">
+							<ul class="states">
+								<li class="error" id="error" style="display: none;"></li>
+								<li class="succes" id="success" style="display: none;"></li>
+							</ul>
+							<h1>Welcome</h1>
+							<p>Manchester Collaboration Application.</p>
+							<p>
+								<input id="fileupload" type="file" name="files[]"
+									data-url="QueryController" onclick="cleanPreviousUpload()"></input>
+							<div id="progress"
+								class="progress progress-success progress-striped">
+								<div class="bar" style="width: 0%;"></div>
+							</div>
+							<div id="files"></div>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<aside id="sidebar"> <strong class="logo"
+			onclick="window.location='index.html'"><a href="">lg</a></strong>
+		<ul class="tabset buttons">
+			<li><a href="" class="ico1"
+				onclick="window.location='publication.html'"><span>Publication</span><em></em></a>
+				<span class="tooltip"><span>Publication</span></span></li>
+			<li><a href="" class="ico2"
+				onclick="window.location='author.html'"><span>Author</span><em></em></a>
+				<span class="tooltip"><span>Author</span></span></li>
+			<li><a href="" class="ico3"
+				onclick="window.location='year.html'"><span>Year</span><em></em></a>
+				<span class="tooltip"><span>Year</span></span></li>
+			<li><a href="" class="ico3"
+				onclick="window.location='collaboration.html'"><span>Collaboration</span><em></em></a>
+				<span class="tooltip"><span>Collaboration</span></span></li>
+			<li class="active"><a href="" class="ico2"
+				onclick="window.location='index.html'"><span>Open New
+						File</span><em></em></a> <span class="tooltip"><span>Open New
+						File</span></span></li>
+		</ul>
+		<span class="shadow"></span> </aside>
+	</div>
+</body>
+</html>

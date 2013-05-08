@@ -1,0 +1,18 @@
+<response>
+	<book>
+		<author>
+			<name>Georg Gottlob</name>
+			<number>2</number>
+			<co-authors>
+				<co-author>
+					<name>Letizia Tanca</name>
+					<number>2</number>
+				</co-author>
+				<co-author>
+					<name>Stefano Ceri</name>
+					<number>12</number>
+				</co-author>
+			</co-authors>
+		</author>
+	</book>
+</response>

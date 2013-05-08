@@ -1,0 +1,33 @@
+<dblp>
+	<inproceedings mdate="2009-10-07" key="conf/bncod/DiazE92">
+		<author>Oscar Daz</author>
+		<author>Suzanne M. Embury</author>
+		<title>Generating Active Rules from High-Level Specifications.</title>
+		<pages>227-243</pages>
+		<year>1996</year>
+		<crossref>conf/bncod/1992</crossref>
+		<booktitle>BNCOD</booktitle>
+		<url>db/conf/bncod/bncod92.html#DiazE92</url>
+		<ee>http://dx.doi.org/10.1007/3-540-55693-1_41</ee>
+	</inproceedings>
+	<book mdate="2002-01-03" key="books/bc/BatiniCN92">
+		<author>Carlo Batini</author>
+		<author>Stefano Ceri</author>
+		<author>Shamkant B. Navathe</author>
+		<title>Conceptual Database Design: An Entity-Relationship Approach.
+		</title>
+		<publisher>Benjamin/Cummings</publisher>
+		<year>1997</year>
+		<isbn>0-8053-0244-1</isbn>
+	</book>
+	<incollection mdate="2008-02-24" key="books/crc/tucker97/CeriR97">
+		<author>Stefano Ceri</author>
+		<author>Raghu Ramakrishnan</author>
+		<title>Rules in Data-Based Systems.</title>
+		<pages>1142-1157</pages>
+		<year>1997</year>
+		<crossref>books/crc/tucker1997</crossref>
+		<booktitle>The Computer Science and Engineering Handbook</booktitle>
+		<url>db/books/collections/tucker97.html#CeriR97</url>
+	</incollection>
+</dblp>
